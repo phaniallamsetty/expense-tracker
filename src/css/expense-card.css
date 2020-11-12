@@ -1,0 +1,31 @@
+.expense-card {
+    border: 1px solid black;
+    clear: both;
+}
+
+.expense-card-name {
+    font-size: 1.5em;
+    font-weight: bold;
+    padding: 10px;
+    text-align: left;
+}
+
+.expense-card-left-item {
+    font-size:1em;
+    padding: 10px;
+    text-align: left;
+}
+
+.expense-card-right-item {
+    font-size: 1.5em;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.left-items {
+    float: left;
+}
+
+.right-items {
+    float: right;
+}
